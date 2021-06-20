@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/buscadores-react/static/css/main.04cb4592.chunk.css",
+    "main.js": "/buscadores-react/static/js/main.6e007479.chunk.js",
+    "main.js.map": "/buscadores-react/static/js/main.6e007479.chunk.js.map",
+    "runtime-main.js": "/buscadores-react/static/js/runtime-main.9595d8a5.js",
+    "runtime-main.js.map": "/buscadores-react/static/js/runtime-main.9595d8a5.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/buscadores-react/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.96eca63d.chunk.js": "/buscadores-react/static/js/2.96eca63d.chunk.js",
+    "static/js/2.96eca63d.chunk.js.map": "/buscadores-react/static/js/2.96eca63d.chunk.js.map",
+    "static/js/3.e1f7c5e3.chunk.js": "/buscadores-react/static/js/3.e1f7c5e3.chunk.js",
+    "static/js/3.e1f7c5e3.chunk.js.map": "/buscadores-react/static/js/3.e1f7c5e3.chunk.js.map",
+    "index.html": "/buscadores-react/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/buscadores-react/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.04cb4592.chunk.css.map": "/buscadores-react/static/css/main.04cb4592.chunk.css.map",
+    "static/js/2.96eca63d.chunk.js.LICENSE.txt": "/buscadores-react/static/js/2.96eca63d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9595d8a5.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.96eca63d.chunk.js",
+    "static/css/main.04cb4592.chunk.css",
+    "static/js/main.6e007479.chunk.js"
+  ]
+}
